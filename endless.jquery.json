@@ -9,14 +9,14 @@
     ],
     "version": "2.2.0",
     "author": {
-        "name": "Totodunet",
-        "url": "http://totodu.net/"
+        "name": "Lounge Lizard dev",
+        "url": "http://http://lounge-lizard-dev.github.io/"
     },
     "maintainers": [
         {
-            "name": "Thomas TRIBUTSCH",
-            "email": "thomas@totodu.net",
-            "url": "http://totodu.net/"
+            "name": "Lounge Lizard dev",
+            "email": "contactlounge.dev@gmail.com",
+            "url": "http://lounge-lizard-dev.github.io/"
         }
     ],
     "licenses": [
@@ -25,11 +25,11 @@
             "url": "http://opensource.org/licenses/MIT"
         }
     ],
-	"demo": "http://totodunet.github.io/endless/",
-	"bugs": "https://github.com/totodunet/endless.js/issues",
+	"demo": "http://lounge-lizard-dev.github.io/endless/",
+	"bugs": "https://github.com/lounge-lizard-dev/endless/issues",
     "homepage": "http://totodunet.github.io/",
-    "docs": "https://github.com/totodunet/endless.js",
-    "download": "http://github.com/totodunet/endless.js/archive/master.zip",
+    "docs": "https://github.com/lounge-lizard-dev/endless",
+    "download": "http://github.com/lounge-lizard-dev/endless/archive/master.zip",
     "dependencies": {
         "jquery": ">=1.6"
     }
